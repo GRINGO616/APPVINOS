@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413519382629",
+    "project_id": "prueba-fd406",
+    "storage_bucket": "prueba-fd406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413519382629:android:a95a24fb43c58dc3291e8c",
+        "android_client_info": {
+          "package_name": "com.example.appvinos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413519382629-68hv6gr4ijnnsfinm8hr3vhrcba3r0us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNuURVBbbSje7SQ3UyLuzdReyLwtZecQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413519382629-68hv6gr4ijnnsfinm8hr3vhrcba3r0us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

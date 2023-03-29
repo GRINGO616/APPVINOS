@@ -7,13 +7,10 @@
         <item name="colorAccent">@color/teal_200</item>
         <!-- Customize your theme here. -->
     </style>
-
     <style name="Theme.APPVINOS.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-
     <style name="Theme.APPVINOS.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
     <style name="Theme.APPVINOS.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
